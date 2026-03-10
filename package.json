@@ -1,0 +1,13 @@
+{
+  "name": "advent-of-code-2024",
+  "version": "1.0.0",
+  "description": "Advent of Code 2024 solutions in JavaScript",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "day2": "day2.js"
+  },
+  "keywords": ["advent-of-code", "aoc", "javascript"],
+  "author": "",
+  "license": "MIT"
+}
